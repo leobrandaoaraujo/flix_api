@@ -15,5 +15,7 @@ A API oferece endpoints para listagem, inserção, atualização e exclusão de 
 Estudos adicionais:
 
 - Serializers dinâmicos e customizados.
+- Validadores de dados.
 - JWT - Json Web Tokens e Permission Classes.
 - Django Custom Commands.
+- Versionamento de URL's e recursos.
